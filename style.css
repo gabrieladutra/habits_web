@@ -15,9 +15,12 @@ body {
 
 header {
     display: flex;
+    background-color: #09090A;
     justify-content: space-between;
     align-items: center;
     padding: 48px;
+    position: fixed;
+    width: 100%;
 }
 
 button {
@@ -37,7 +40,8 @@ button {
 
 #form-habits {
     display: flex;
-    padding: 0 48px;
+    padding: 182px 48px 48px;
+    width: fit-content;
 }
 
 .days {
