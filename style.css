@@ -35,9 +35,9 @@ button {
     line-height: 125%;
 }
 
-form {
+#form-habits {
     display: flex;
-    padding: 48px;
+    padding: 0 48px;
 }
 
 .days {
